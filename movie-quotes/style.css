@@ -1,0 +1,26 @@
+p { 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+h2 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+.intro {
+    color: rgb(14, 32, 4);
+}
+.intro2 {
+    color: rgb(103, 182, 12);
+}
+.intro3 {
+    color: rgb(12, 143, 23);
+}
+.intro5 {
+    color: rgb(168, 197, 0);
+}
+.intro6 {
+    color: rgb(0, 226, 158);
+}
