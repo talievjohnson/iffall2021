@@ -1,0 +1,119 @@
+body { 
+    font-family:'Archivo Narrow', sans-serif ;
+}
+
+h1 {
+    margin: 0;
+    font-size: 80px;
+}
+h2 {
+    font-size: 29.9px;
+}
+p {
+    line-height: 25.5px;
+    padding: 11px 0 0 0;
+    font-size: 18px;
+    letter-spacing: 0px;
+    font-weight:0px ;
+    
+}
+.content { 
+    width: 960px;
+    margin: auto;
+
+
+}
+section {
+    padding: 41px 0 10px 0;
+}
+header {
+    text-align: center;
+    line-height: 48px;
+    background-image:url('../images/rainbow.jpg');
+    object-fit: cover;
+}
+.section1 h1 { 
+    text-align: center;
+    font-size: 40px;
+    padding: 0 0 3px 0;
+}
+.section2 h1 { 
+    text-align: center;
+    font-size: 40px;
+    padding: 25px 0 19px 0px;
+}
+
+header .content { 
+    padding: 182.5px 0 153px 0;
+}
+
+.twix { width: 100%;
+    object-fit: cover;
+    float: right;
+    padding: 29px 0 25px 40px;
+    
+    width: 400px; height: 300px;}
+
+    .content p:nth-child(4) { line-height: 25.5px;
+        padding: 0 0 0 0;
+    }
+   .content p:nth-child(5) { line-height: 25.5px;
+            padding: 0 0 0 0;
+    }
+.section2 img  { 
+     width: 200px;
+    height: 150px;
+object-fit: cover;
+float: left;
+padding: 0 13px 24px 0;
+
+}
+.section2 li { 
+    padding: 0 0 0 0;
+    display:inline-block;
+font-size: 17px;
+width: 45%;
+min-inline-size: 438px;
+margin: auto;
+}
+
+.section2 li::after {content: "";
+display: block;
+clear: both;
+}
+h3 {
+    margin: 0 75px 0 0;
+    padding: 12px 0 0 0;
+    line-height: 3px;
+ }
+ .section2 p {font-size: 18px; 
+   margin-top: 11px;
+   padding: 0 0 0 0;
+ }
+ .section3 h2 { text-align: center;
+        font-size: 40px;
+    padding: 0 0 0px 0;}
+.section3 {
+    padding: 19px;
+}
+.section3 p { font-size: 26px;
+    text-align: center;
+    padding: 0 125px 0 125px;
+    line-height: 36px;
+
+}
+.section4 p {
+text-align: left;
+font-size: 18px;
+padding: 51px 1px 0 47px;
+}
+.section2 {
+    background-color: salmon;
+    
+}
+.section1 { 
+    background-color: skyblue;
+}
+.section3 {
+    background-color: teal;
+}
