@@ -1,0 +1,110 @@
+
+    h2 {font-family: ff-providence-sans-web-pro, sans-serif;
+    font-weight: 700;
+    font-style: normal; 
+    color: seashell;
+    text-align: center;
+}
+h1 { font-family: mati, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: seashell;
+    text-align: center;
+}
+
+h3 { font-family: ff-providence-sans-web-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    color: seashell;
+    text-align: center;
+    line-height: 10%;
+}
+
+h4 { font-family: mati, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: seashell;
+    text-align: Left ;
+    padding: 0;}
+
+h5 { font-family: mati, sans-serif;
+        font-weight: 200;
+        font-style: normal;
+        color: seashell;
+        text-align: Left ;
+        color: rgb(255, 215, 187);
+        line-height: 5%;
+         margin: 10%;
+        padding: 0;}
+        
+.ing  p { font-family: ff-providence-sans-web-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    color: seashell;
+    text-align: left; 
+    line-height: 1px;
+    margin: 5%;
+    padding:0;
+}
+.ing img { max-width: 40%;
+    display: float;
+    float: right;}
+
+.instruct img { max-width: 50%;
+        display: float;
+        float: left;
+        margin:0 ;
+        padding: 0%;}
+li {display:inline-block ;}
+
+.materials  img { max-width: 40%;
+    display: float;
+    float: right; 
+    padding: 0 0 0 0%;    
+}
+.materials  p { font-family: ff-providence-sans-web-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    color: seashell;
+    text-align: left; 
+    line-height: 1px;
+    margin: 5%;
+    padding:0;}
+    
+#type { font-family: ff-providence-sans-web-pro, sans-serif;
+    font-weight: 700;
+    font-style: normal; 
+    color: seashell;
+    text-align: center;}
+.instruct p { font-family: ff-providence-sans-web-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    color: seashell;
+    text-align: left; 
+    line-height: 125%;
+    margin: 5%;
+    padding:0;
+    word-wrap: break-word;
+
+}
+.intro {display: float;
+    float: left;
+width: 50%;}
+
+.intro2 { max-width: 100%;
+line-height: 100%;}
+ .intro3 { font-family: ff-providence-sans-web-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    color: seashell;
+    text-align: center;
+padding: 10% 10% 10% 10%;}
+img { max-width: 100%;}
+* { background-color: #913507;
+    margin-left: auto; margin-right: auto;
+    width: 90%;
+    overflow-wrap: break-word;}
+    .instruct .tt  {color: #ffa375;
+        text-indent: 10%;}
+        .ing .tt  {color: #ffa375;
+            text-indent: 10%;}
