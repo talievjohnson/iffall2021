@@ -1,0 +1,129 @@
+.nav { 
+    overflow: hidden;
+   
+font-family: input-mono, monospace;
+    font-weight: 400;
+    font-style: normal;
+    max-width: fit-content;
+    position:fixed;
+    top: 0;
+    margin: none;
+    padding: none;
+
+}
+
+.nav a {
+    color: #000000;
+    text-decoration: none; 
+    list-style-type: none;
+}
+.nav { 
+    background-image: linear-gradient(90deg,#80ed12,#A5D604,#C7B601,#E39209,#F66C1C,#FE4838,#FB295B,#ED1180,#D504A6,#B601C8,#910AE3,#6B1DF6,#4739FE,#285BFB,#1181ED,#03A6D5);
+	color: #0000;
+    width: 300px;
+    align-content: left;
+    height: 100%;
+    transition-duration: 3s;
+   
+
+}
+.nav :hover {
+    color: #ffffff;
+
+
+}
+
+h1{ 
+ font-size: 10rem;
+ font-family: eckmannpsych-large, sans-serif;
+font-weight: 400;
+font-style: normal;
+    text-align: center;
+    padding: 0 300px 0 300px ;
+
+        background-image: linear-gradient(90deg,#80ed12,#A5D604,#C7B601,#E39209,#F66C1C,#FE4838,#FB295B,#ED1180,#D504A6,#B601C8,#910AE3,#6B1DF6,#4739FE,#285BFB,#1181ED,#03A6D5);
+        color: #0000;
+        -webkit-background-clip: text;
+        background-clip: text;
+        
+    
+    
+}
+h3{overflow: hidden;
+
+    font-family: input-mono, monospace;
+    font-weight: 500;
+    font-style: normal;
+    color: #ffffff;
+    text-align: center;
+    padding: 0 300px 0 300px ;} 
+h2 { 
+    overflow: hidden;
+
+    font-family: input-mono, monospace;
+    font-weight: 500;
+    font-style: normal;
+    color: #ffffff;
+    text-align: center;
+    padding: 0 300px 0 300px ;
+    
+}
+.nav li { 
+    display: block; 
+    padding:2px; 
+    font: size 2rem ;
+    margin: auto;
+    padding: 5px 15px 5px 15px;
+    transition: .5s;
+    text-decoration: none; 
+    list-style-type: none;
+}
+.content { padding: 100px;}
+.nav p {
+    font-family: input-mono, monospace;
+    font-weight: 400;
+    font-style: normal;
+    max-width: fit-content;
+    position:fixed; }
+    p {
+        font-family: input-mono, monospace;
+        font-weight: 400;
+        font-style: normal;
+        max-width: fit-content;
+       padding: 0 300px 0 300px ;
+       color: #000000;
+        }
+        
+
+img {  padding: 5px 300px 50px 300px ;
+max-width: 50%;}
+
+
+@media only screen and (max-width: 900px) { h1 { font-size: 8rem;}
+p, H1, H2,h3 { padding: 0 2% 0 250PX;} 
+p { font-size: 15px;}
+h2 { font-size: 22px;}
+.nav { font-size: 85%;} 
+
+}
+@media only screen and (max-width: 750px) { h1 { font-size: 6rem;}
+p, H1, H2, IMG,h3 { padding: 0 2% 0 200PX;} 
+p { font-size: 13px;}
+h2 { font-size: 19px;}
+h3 { font-size: 17px;}
+.nav { font-size: 70%;} 
+}
+@media only screen and (max-width: 600px) { h1 { font-size: 4rem;}
+p, H1, H2, IMG,h3 { padding: 0 2% 0 150PX;} 
+p { font-size: 11px;}
+h2 { font-size: 16px;}
+h3 { font-size: 14px;}
+.nav { font-size: 55%;} 
+}
+@media only screen and (max-width: 450px) { h1 { font-size: 2rem;}
+p, H1, H2, IMG, h3 { padding: 0 2% 0 100PX;} 
+p { font-size: 9px;}
+h2 { font-size: 13px;}
+h3 { font-size: 11px;}
+.nav { font-size: 40%;} 
+}
